@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate **senior software engineer** with experti
 
 ## 🚀 About Me
 - 🌟 **Core Skills**: OOP, SOLID principles, Clean Architecture, Domain-Driven Design (DDD), and Separation of Concerns.
-- 💻 **Technologies**: Proficient in **Java Spring Boot**, **PHP (Laravel, Symfony, CodeIgniter)**, **Redis**, **RabbitMQ**, and **Docker**.
+- 💻 **Technologies**: Proficient in **Java Spring Boot**, **PHP (Laravel, Symfony, CodeIgniter)**, **GO**, **Redis**, **RabbitMQ**, and **Docker**.
 - 🔧 **Tools**: Skilled with tools like **Jenkins**, **Terraform**, **Ansible**, and platforms like **DigitalOcean**.
 - 📊 **Projects**: Worked on diverse applications, including a **new ERP system** and a platform for **buying and selling used cars**.
 
